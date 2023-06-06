@@ -13,10 +13,6 @@ export default function ShipList() {
     };
     getShipList();
   }, [setShipList]);
-  //   async function callApi() {
-  //
-  //   }
-  //   callApi();
 
   return (
     <>
